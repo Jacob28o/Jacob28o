@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML>
+<h1> welcome to my page
+
+<p> if you want to see something cool click the link below
+<a ref="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<style>
+body {
+background-color:blue;
+}
+</style>
